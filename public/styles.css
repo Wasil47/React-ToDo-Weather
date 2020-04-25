@@ -32,7 +32,7 @@ footer {
   bottom: 0;
 }
 
-form.create-note {
+form.create-note, .weather-form {
   position: relative;
   background: #fff;
   margin: 30px auto 30px auto;
@@ -44,7 +44,8 @@ form.create-note {
 }
 
 form.create-note input,
-form.create-note textarea {
+form.create-note textarea, .weather-form input,
+.weather-form textarea {
   width: 100%;
   border: none;
   padding: 4px;
@@ -54,7 +55,7 @@ form.create-note textarea {
   resize: none;
 }
 
-form.create-note button {
+form.create-note button, .weather-form button {
   position: absolute;
   right: 18px;
   bottom: -18px;
