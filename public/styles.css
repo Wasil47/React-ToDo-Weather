@@ -57,14 +57,14 @@ form.create-note textarea, .weather-form input,
 
 form.create-note button, .weather-form button {
   position: absolute;
-  right: 18px;
-  bottom: -18px;
+  right: 25px;
+  bottom: -25px;
   background: #a762e7;
   color: #fff;
   border: none;
   border-radius: 50%;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
           box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   cursor: pointer;
