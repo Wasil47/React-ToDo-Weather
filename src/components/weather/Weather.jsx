@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
-const weatherURL = `http://api.openweathermap.org/data/2.5/weather?q=`;
+const weatherURL = `https://api.openweathermap.org/data/2.5/weather?q=`;
 const keyURL = `&appid=${API_KEY}`;
 const units = `&units=metric`;
 
