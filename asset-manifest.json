@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-ToDo-Weather/static/css/main.eb09444c.chunk.css",
+    "main.js": "/React-ToDo-Weather/static/js/main.05384335.chunk.js",
+    "main.js.map": "/React-ToDo-Weather/static/js/main.05384335.chunk.js.map",
+    "runtime-main.js": "/React-ToDo-Weather/static/js/runtime-main.86989ca6.js",
+    "runtime-main.js.map": "/React-ToDo-Weather/static/js/runtime-main.86989ca6.js.map",
+    "static/js/2.fb1456d8.chunk.js": "/React-ToDo-Weather/static/js/2.fb1456d8.chunk.js",
+    "static/js/2.fb1456d8.chunk.js.map": "/React-ToDo-Weather/static/js/2.fb1456d8.chunk.js.map",
+    "index.html": "/React-ToDo-Weather/index.html",
+    "precache-manifest.91d9333139cc082ee1d86956a9126ae0.js": "/React-ToDo-Weather/precache-manifest.91d9333139cc082ee1d86956a9126ae0.js",
+    "service-worker.js": "/React-ToDo-Weather/service-worker.js",
+    "static/css/main.eb09444c.chunk.css.map": "/React-ToDo-Weather/static/css/main.eb09444c.chunk.css.map",
+    "static/js/2.fb1456d8.chunk.js.LICENSE.txt": "/React-ToDo-Weather/static/js/2.fb1456d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86989ca6.js",
+    "static/js/2.fb1456d8.chunk.js",
+    "static/css/main.eb09444c.chunk.css",
+    "static/js/main.05384335.chunk.js"
+  ]
+}
