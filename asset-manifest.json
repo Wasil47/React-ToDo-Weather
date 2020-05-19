@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.e4923604.chunk.css",
-    "main.js": "./static/js/main.6ae7a72e.chunk.js",
-    "main.js.map": "./static/js/main.6ae7a72e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.0d4c0a39.js",
-    "runtime-main.js.map": "./static/js/runtime-main.0d4c0a39.js.map",
-    "static/js/2.fb1456d8.chunk.js": "./static/js/2.fb1456d8.chunk.js",
-    "static/js/2.fb1456d8.chunk.js.map": "./static/js/2.fb1456d8.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.388fed442fdc74afc57894714729224c.js": "./precache-manifest.388fed442fdc74afc57894714729224c.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.e4923604.chunk.css.map": "./static/css/main.e4923604.chunk.css.map",
-    "static/js/2.fb1456d8.chunk.js.LICENSE.txt": "./static/js/2.fb1456d8.chunk.js.LICENSE.txt"
+    "main.css": "/React-ToDo-Weather/static/css/main.e4923604.chunk.css",
+    "main.js": "/React-ToDo-Weather/static/js/main.40c8efdb.chunk.js",
+    "main.js.map": "/React-ToDo-Weather/static/js/main.40c8efdb.chunk.js.map",
+    "runtime-main.js": "/React-ToDo-Weather/static/js/runtime-main.86989ca6.js",
+    "runtime-main.js.map": "/React-ToDo-Weather/static/js/runtime-main.86989ca6.js.map",
+    "static/js/2.fb1456d8.chunk.js": "/React-ToDo-Weather/static/js/2.fb1456d8.chunk.js",
+    "static/js/2.fb1456d8.chunk.js.map": "/React-ToDo-Weather/static/js/2.fb1456d8.chunk.js.map",
+    "index.html": "/React-ToDo-Weather/index.html",
+    "precache-manifest.d3da97d481689337175019503dc6f815.js": "/React-ToDo-Weather/precache-manifest.d3da97d481689337175019503dc6f815.js",
+    "service-worker.js": "/React-ToDo-Weather/service-worker.js",
+    "static/css/main.e4923604.chunk.css.map": "/React-ToDo-Weather/static/css/main.e4923604.chunk.css.map",
+    "static/js/2.fb1456d8.chunk.js.LICENSE.txt": "/React-ToDo-Weather/static/js/2.fb1456d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d4c0a39.js",
+    "static/js/runtime-main.86989ca6.js",
     "static/js/2.fb1456d8.chunk.js",
     "static/css/main.e4923604.chunk.css",
-    "static/js/main.6ae7a72e.chunk.js"
+    "static/js/main.40c8efdb.chunk.js"
   ]
 }
