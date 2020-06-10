@@ -33,11 +33,13 @@ footer {
   bottom: 0;
 }
 
-form.create-note, .weather-form {
+form.create-note,
+.weather-form {
   position: relative;
   background: #fff;
   margin: 30px auto 30px auto;
-  width: 480px;
+  width: 90vw;
+  max-width: 480px;
   padding: 15px;
   -webkit-box-shadow: 0 1px 5px 0 #444;
           box-shadow: 0 1px 5px 0 #444;
@@ -45,7 +47,8 @@ form.create-note, .weather-form {
 }
 
 form.create-note input,
-form.create-note textarea, .weather-form input,
+form.create-note textarea,
+.weather-form input,
 .weather-form textarea {
   width: 100%;
   border: none;
@@ -56,7 +59,8 @@ form.create-note textarea, .weather-form input,
   resize: none;
 }
 
-form.create-note button, .weather-form button {
+form.create-note button,
+.weather-form button {
   position: absolute;
   right: 25px;
   bottom: -25px;
